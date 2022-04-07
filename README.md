@@ -1,6 +1,5 @@
 # Carball AI RLbot
-Forked from Impossibum's RLGymExampleBot.  
-Used to convert a Reinforcement Learning training bot in [RlGym](https://rlgym.github.io/) to the [RLbot](https://rlbot.org/) framework for easier testing against official and user created bots. 
+Used to convert a PPO Reinforcement Learning training bot in [RlGym](https://rlgym.github.io/) to the [RLbot](https://rlbot.org/) framework for easier testing against official and user created bots. The RLGym bot can be found (HERE) [https://github.com/BenjaminChilson/CapstoneProject_RocketLeagueAI]
 ## Changing the bot
 
 - Bot behavior is controlled by `bot.py`
