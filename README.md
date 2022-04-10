@@ -6,6 +6,7 @@ The RLGym version of the bot can be found [HERE](https://github.com/BenjaminChil
 
 - Bot behavior is controlled by `bot.py`
 - Bot appearance is controlled by `appearance.cfg`
+- Switch branches to reflect the desired model
 
 See https://github.com/RLBot/RLBotPythonExample/wiki for documentation and tutorials.
 
