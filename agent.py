@@ -13,7 +13,7 @@ class Agent:
             "n_envs": 1,
         }
         
-        self.actor = PPO.load(str(_path) + '/models/carballai_200m', device='cpu', custom_objects=custom_objects)
+        self.actor = PPO.load(str(_path) + '/models/carballai_300m', device='cpu', custom_objects=custom_objects)
         self.parser = DiscreteAction()
 
 
