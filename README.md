@@ -22,7 +22,7 @@ Menu->Install Missing Python Packages
 
 - Bot behavior is controlled by `bot.py`
 - Bot appearance is controlled by `appearance.cfg`
-- Switch branches to reflect the desired model (Main contains the 500m Model)
+- Switch branches to reflect the desired model (Restart Required on RLBot after switching branches) (Main contains the 500m Model) 
 
 See https://github.com/RLBot/RLBotPythonExample/wiki for documentation and tutorials.
 
